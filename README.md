@@ -1,5 +1,4 @@
-# App-Dev
-My First Repository
+
 # MY FAVORITE MOVIE
 ## ANIME SERIES
 
